@@ -1,0 +1,12 @@
+__pycache__/
+APIResponses/
+Data\ Dragon/
+Game\ Info/
+LoLAramPredictor/
+StartScripts/
+tmp/
+*.bat
+config.py
+docker-compose.yml
+*.pkl
+*.json
