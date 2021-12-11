@@ -5,6 +5,7 @@ Game\ Info/
 LoLAramPredictor/
 StartScripts/
 tmp/
+Optimize*
 *.bat
 config.py
 docker-compose.yml
